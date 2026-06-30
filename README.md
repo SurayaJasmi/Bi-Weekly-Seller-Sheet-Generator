@@ -64,10 +64,10 @@ Master list contains a large dataset (230+ suppliers). Screenshot below shows a 
 ## Screenshots
 
 ### Master List
-![Master List](screenshots/MasterList.png)
+![Master List](screenshots/Master List.png)
 
 ### Sheet Generation Menu Button
-![Sheet Generation Menu Button](screenshots/SheetGenerationMenuButton.png)
+![Sheet Generation Menu Button](screenshots/Sheet Generation MenuB utton.png)
 
 ### Before (Report Sheet)
 ![Before](screenshots/Before.png)
