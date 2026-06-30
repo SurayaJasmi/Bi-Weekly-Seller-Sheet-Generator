@@ -37,8 +37,8 @@ A Google Apps Script automation tool that generates new reporting cycles across 
 1. Open Google Sheets → Extensions → Apps Script  
 2. Paste `Code.gs`  
 3. Ensure a sheet called `Master List` exists  
-4. Add supplier names + spreadsheet URLs  
-5. Run `generateNewReportingCycle()`  
+4. Add supplier names and spreadsheet URLs  
+5. Run `generateNewReportingCycle()`
 
 ---
 
@@ -46,4 +46,37 @@ A Google Apps Script automation tool that generates new reporting cycles across 
 
 - Sheet names must follow: `W1 W2 Jan`
 - RAW sheets must end with `RAW`
-- At least one previous cycle must exist
+- At least one previous cycle must exist  
+
+---
+
+## Master List Structure
+
+Master list contains a large dataset (230+ suppliers). Screenshot below shows a sample structure for reference.
+
+| Supplier Name | Spreadsheet URL |
+|---------------|-----------------|
+| Supplier A    | https://...     |
+| Supplier B    | https://...     |
+
+---
+
+## Screenshots
+
+### Master List
+![Master List](screenshots/master-list.png)
+
+### Sheet Generation Menu Button
+![Sheet Generation Menu Button](screenshots/sheet-generation-menu-button.png)
+
+### Before (Report Sheet)
+![Before](screenshots/before.png)
+
+### Before (RAW Data)
+![Before RAW Data](screenshots/before-raw-data.png)
+
+### After (Report Sheet)
+![After](screenshots/after.png)
+
+### After (RAW Data)
+![After RAW Data](screenshots/after-raw-data.png)
