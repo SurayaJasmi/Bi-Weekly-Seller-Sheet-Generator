@@ -64,19 +64,19 @@ Master list contains a large dataset (230+ suppliers). Screenshot below shows a 
 ## Screenshots
 
 ### Master List
-![Master List](screenshots/Master-List.png)
+![Master List](screenshots/master-list.png)
 
 ### Sheet Generation Menu Button
 ![Sheet Generation Menu Button](screenshots/menu-button.png)
 
 ### Before (Report Sheet)
-![Before](screenshots/Before.png)
+![Before](screenshots/before.png)
 
 ### Before (RAW Data)
-![Before RAW Data](screenshots/-Before-RAW-Data.png)
+![Before RAW Data](screenshots/before-raw.png)
 
 ### After (Report Sheet)
-![After](screenshots/After.png)
+![After](screenshots/after.png)
 
 ### After (RAW Data)
-![After RAW Data](screenshots/-After-RAW-Data.png)
+![After RAW Data](screenshots/after-raw.png)
